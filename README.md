@@ -7,8 +7,6 @@
      
 - 🙋 Pronouns: ela/dela
 - 👩‍🎓 Estudo **Análises e desenvolvimento de sistemas** e atualmente me encontro no 2º período.
-- 🌱 No momento estou estudando Python3, HTML5 e CSS3
-- 🧚‍♀️ Apesar de ser iniciante já tenho em mente me tornar desenvolvedora back-end.
 - 😛 Fun fact: Antes de entrar para área de programação estudei física por 3 anos e também trabalhei como aeroviária! 
 - 💼 Estou em busca de estágio então se você tiver interesse ou souber de alguma dica legal você pode entrar em contato comigo através do meu e-mail que se encontra no link ao final da página! 
 ##
