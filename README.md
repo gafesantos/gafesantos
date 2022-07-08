@@ -8,6 +8,8 @@
 - 🙋 Pronouns: ela/dela
 - 👩‍🎓 Estudo **Análises e desenvolvimento de sistemas** e atualmente me encontro no 2º período.
 - 😛 Fun fact: Antes de entrar para área de programação estudei física por 3 anos e também trabalhei como aeroviária! 
+
+
 ##
 
 <div align="center">
