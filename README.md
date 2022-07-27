@@ -17,10 +17,10 @@
 <div align="center">
   <a href="https://github.com/gafesantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gafesantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src=" https://github-readme-stats.vercel.app/api?username=gafesantos&theme=radical_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafesantos)](https://github.com/gafesantos/github-readme-stats"/>
 </div>
      
-     
+    
 
   <br>
   <div  align="center"> 
