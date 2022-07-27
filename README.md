@@ -19,8 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gafesantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafesantos&layout=compact&langs_count=20&theme=radical"/>
 </div>
-     
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=20&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
     
 
   <br>
