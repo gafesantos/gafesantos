@@ -20,6 +20,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafesantos&layout=compact&langs_count=7&theme=radical"/>
 </div>
      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+     
     
 
   <br>
