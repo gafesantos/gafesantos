@@ -1,13 +1,10 @@
-### Olá, meu nome é Gabriela mas pode me chamar de Gabi! ✨
+### Hi! My name is Gabriela but you can call me Gab!
 ##
 
-
-<a href="https://ibb.co/KhXtTWr"><img align="right" alt="Gabi-pic" height="150" src="https://i.ibb.co/B3th0BC/My-project-6.png" border="0"></a>
-
-     
-- 🙋 Pronouns: ela/dela
-- 👩‍🎓 Estudo **Análises e desenvolvimento de sistemas** e atualmente me encontro no 2º período.
-- 😛 Fun fact: Antes de entrar para área de programação estudei física por 3 anos e também trabalhei como aeroviária! 
+- 🙋 Pronouns: She/her
+- 🖥️ Full-Stack Developer  
+- 👩‍🎓 Studying Systems analysis and development
+- 💼 Intern at Accenture Brazil 
 
 
 ##
