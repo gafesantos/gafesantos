@@ -4,7 +4,6 @@
 - 🙋 Pronouns: She/her
 - 🖥️ Full-Stack Developer  
 - 👩‍🎓 Studying Systems analysis and development
-- 💼 Intern at Accenture Brazil 
 
 
 ##
